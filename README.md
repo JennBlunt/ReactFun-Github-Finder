@@ -1,3 +1,9 @@
+#### COVID React Fun day 1!!!!!!
+
+Another group of projects I'll build while isolated. 
+
+React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management and is part of the "Modern React Front To Back" Udemy course
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
