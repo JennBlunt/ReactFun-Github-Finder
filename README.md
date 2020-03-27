@@ -1,4 +1,4 @@
-### COVID React Fun day 1!!!!!!
+## COVID React Fun day 1!!!!!!
 
 Another group of projects I'll build while isolated. 
 
